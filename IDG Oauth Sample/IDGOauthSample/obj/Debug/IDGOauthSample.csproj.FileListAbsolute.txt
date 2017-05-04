@@ -14,3 +14,9 @@ C:\Users\smadhavan\Source\Repos\oauth-dotnet\IDG Oauth Sample\IDGOauthSample\bin
 C:\Users\smadhavan\Source\Repos\oauth-dotnet\IDG Oauth Sample\IDGOauthSample\bin\IDGOauthSample.pdb
 C:\Users\smadhavan\Source\Repos\oauth-dotnet\IDG Oauth Sample\IDGOauthSample\obj\Debug\IDGOauthSample.dll
 C:\Users\smadhavan\Source\Repos\oauth-dotnet\IDG Oauth Sample\IDGOauthSample\obj\Debug\IDGOauthSample.pdb
+C:\Users\ZAKI-GMNG\Documents\GitHub\oauth-dotnet\IDG Oauth Sample\IDGOauthSample\bin\IDGOauthSample.dll.config
+C:\Users\ZAKI-GMNG\Documents\GitHub\oauth-dotnet\IDG Oauth Sample\IDGOauthSample\bin\IDGOauthSample.dll
+C:\Users\ZAKI-GMNG\Documents\GitHub\oauth-dotnet\IDG Oauth Sample\IDGOauthSample\bin\IDGOauthSample.pdb
+C:\Users\ZAKI-GMNG\Documents\GitHub\oauth-dotnet\IDG Oauth Sample\IDGOauthSample\obj\Debug\IDGOauthSample.csprojResolveAssemblyReference.cache
+C:\Users\ZAKI-GMNG\Documents\GitHub\oauth-dotnet\IDG Oauth Sample\IDGOauthSample\obj\Debug\IDGOauthSample.dll
+C:\Users\ZAKI-GMNG\Documents\GitHub\oauth-dotnet\IDG Oauth Sample\IDGOauthSample\obj\Debug\IDGOauthSample.pdb
